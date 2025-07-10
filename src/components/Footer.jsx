@@ -25,7 +25,7 @@ const Footer = () => {
                 <RiInstagramFill />
             </a>
         </div>
-        <p className='text-sm'>&copy; 2025 VastuSpaze. All rights reserved.</p>
+        <p className='text-sm '>&copy; 2025 VastuSpaze. All rights reserved.</p>
     </div>
    </footer>
   )
